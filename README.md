@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Convert csv and json</h1>
+  <h1>convert-csv-json</h1>
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/janapc/convert-csv-json"/>
   <img alt="Language top" src="https://img.shields.io/github/languages/top/janapc/convert-csv-json"/>
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/convert-csv-json"/>
